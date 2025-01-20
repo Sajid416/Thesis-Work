@@ -1,4 +1,4 @@
-# Rice leaf diseases classification using CNN with transfer learning
+# Rice leaf diseases classification using CNN and swin transformer with transfer learning
 ## The Thesis have been deviced into multiple steps
 - Importing Libraries
 - Loading Dataset
