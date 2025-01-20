@@ -8,3 +8,5 @@
 - Model building
 - Training
 - Testing
+### Dataset is given in the following link
+- [Rice Leaf Disease Dataset](https://www.kaggle.com/datasets/sajidulislam12/rice-leaf-diseases)
